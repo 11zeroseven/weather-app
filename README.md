@@ -2,15 +2,5 @@ Experience hyperlocal weather at your fingertips, with precise 5-day forecasts d
 
 Witness the magic firsthand: https://the-weather-forecasting.netlify.app
 
-Getting Started:
-
-Make sure you have Node.js and npm installed.
-
-Grab your API key from OpenWeatherMap: https://home.openweathermap.org/api_keys
-
-Replace WEATHER_API_KEY in src/api/OpenWeatherService.js with your key.
-
-Install packages: npm install
-
 
 
