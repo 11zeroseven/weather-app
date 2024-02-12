@@ -10,8 +10,6 @@ Grab your API key from OpenWeatherMap: https://home.openweathermap.org/api_keys
 
 Replace WEATHER_API_KEY in src/api/OpenWeatherService.js with your key.
 
-Clone the repository: git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
-
 Install packages: npm install
 
 
