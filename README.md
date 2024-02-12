@@ -21,15 +21,6 @@ Grab your API key from OpenWeatherMap: https://home.openweathermap.org/api_keys
 Replace WEATHER_API_KEY in src/api/OpenWeatherService.js with your key.
 Clone the repository: git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
 Install packages: npm install
-** Used Libraries:**
 
-React
-Material-UI
-** Upcoming Features:**
 
-Styled-components for even more customization: Express your unique style.
-TypeScript integration for code robustness: Ensure unwavering reliability.
-Unit testing for comprehensive quality assurance: Deliver a polished experience.
-Automatic location detection: Get instant weather insights, wherever you are.
-Celsius/Fahrenheit switching: Global convenience at your fingertips.
-Light and dark mode options: Match your preferences perfectly.
+
